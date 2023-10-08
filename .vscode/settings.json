@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"libgen.h": "c",
+		"errno.h": "c",
+		"limits": "c"
+	}
+}
